@@ -1,0 +1,8 @@
+There are two files for this program .
+moon.py 
+This is the main program and runs a script that works out the phase of the moon and returns a value. 
+There is an if statement that then runs a function within the moonphase.py script.
+
+moonphase.py
+The moon is set to display for 5 sec when moon.py is run.
+At the bottom the 8 phases are commented out , but if you un-comment them you can run moonphase.py as a stand alone script .
