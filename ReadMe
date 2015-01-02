@@ -1,0 +1,5 @@
+Carmarthen Coder Dojo UniCorn Hat Projects.
+
+creeper.py
+Displays a very simple creeper on the UniCorn Hat .
+The function UH.rotation() changes the rotation of the screen.
